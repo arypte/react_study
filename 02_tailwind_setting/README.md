@@ -1,13 +1,13 @@
 설치 명령어
 
-npm install -D tailwindcss
+npm install -D tailwindcss<br>
 npx tailwindcss init
 
 index.css
 
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@tailwind base;<br>
+@tailwind components;<br>
+@tailwind utilities;<br>
 
 json파일
 
